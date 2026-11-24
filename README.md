@@ -1,5 +1,7 @@
 # Collaborative Whiteboard
 
+**Live Demo:** [https://collaborative-whiteboard-madhurpareek.vercel.app](https://collaborative-whiteboard-madhurpareek.vercel.app/)
+
 An interactive, browser-based digital whiteboard application built with React and HTML5 Canvas. Designed for smooth freehand sketching, geometric shape drawing, and quick diagramming with a responsive, distraction-free interface.
 
 ## Features
